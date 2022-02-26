@@ -1,0 +1,7 @@
+.*
+!.git*
+
+fp-info-cache
+*-backups
+*.bak
+*.*-bak

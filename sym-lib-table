@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "phq_IC")(type "KiCad")(uri "${KIPRJMOD}/phq/phq_IC.kicad_sym")(options "")(descr ""))
+  (lib (name "phq_Module")(type "KiCad")(uri "${KIPRJMOD}/phq/phq_Module.kicad_sym")(options "")(descr ""))
+)

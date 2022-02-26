@@ -1,0 +1,3 @@
+[submodule "phq"]
+	path = phq
+	url = https://github.com/illdefined/phq.git
